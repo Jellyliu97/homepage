@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Introduction"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guo Dong Liu (Eric Liu / 柳国栋)"
+  name             : "Guo Dong Liu (Eric Liu)"
   avatar           : "profile.png"
   bio              : "Learing for AI/CS/EE"
   location         : "Nanjing, China"
