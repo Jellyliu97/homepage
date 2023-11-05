@@ -7,8 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I got the master degree of AI from the State Key Lab of mmwave in Southeast University, China. my current research interest includes machine learning, CV (including medical image processing), muti-modal, IoT, wireless sensing and edge computing.
+I am going to pursue a PhD in computer science and technology from Nanjing University, China. I got the master degree in AI from the State Key Lab of Millimeter Waves of Southeast University, China. my current research interest includes machine learning, computer vision (including medical image processing), muti-modal, AIoT, wireless sensing, edge computing and AI for science.
 
+
+**publications:**
+======
+1.	**Guo Dong Liu**, Wang Sheng Hu, Wen Ying Hou, Sheng Jie Huang, Du Ming Cao, Hai Peng Wang, Yu Xuan Zhou, Fei He, and Yun Bo Li. Indoor Positioning and Posture Recognition of Human Boby Applying Integrating-Type Intelligent Metasurfaces Based Sensing System, Advanced Materials Technologies 2023.
+2.	Hai Peng Wang, Yu Xuan Zhou, He Li, (Co-first Authors) **Guo Dong Liu**, Si Meng Yin, Peng Ju Li, Shu Yue Dong, Chao Yue Gong, Shi Yu Wang, Yun Bo Li, and Tie Jun Cui. Noncontact electromagnetic wireless recognition for prosthesis based on intelligent metasurface, Advanced Science, 2022.
+3.	**Guo Dong Liu**, Peng Hai Wang, He Li and Yun Bo Li, Intelligent Metasurface with Machine Learning for Non-contact Hand Gesture Recognition, ACES 2022. (Oral presentation)
+4.	He Li, Yun Bo Li, Wang Sheng Hu, Sheng Jie Huang, Jia Lin Shen, Shi Yu Wang, **Guo Dong Liu**, and Tie Jun Cui. Joint Detections of Frequency and Direction of Arrival in Wideband Based on Programmable Metasurface, IEEE Transactions on Antennas and Propagation 2023.
+
+
+ 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
