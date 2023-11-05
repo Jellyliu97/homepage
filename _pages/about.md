@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Man"
+title: "Academic Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
