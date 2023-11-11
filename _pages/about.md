@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I will go to Nanjing University next year to pursue a PhD in computer science and technology (if no accident :)). I got the master degree in AI from the State Key Lab of Millimeter Waves of Southeast University, China. my current research interest includes machine learning, computer vision (including medical image processing), muti-modal, AIoT, wireless sensing, edge computing and AI for science.
+I will join Nanjing University in fall 2024 in pursue of the PhD in computer science and technology (if no accident :)). I obtained my master's degree in AI from the State Key Lab of Millimeter Waves of Southeast University, China. my current research interest includes machine learning, computer vision (including medical image processing), muti-modal, AIoT, wireless sensing, edge computing and AI for science.
 
 
 **Publications:**
