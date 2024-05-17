@@ -24,3 +24,8 @@ I will join The State Key Laboratory for Novel Software Technology of Nanjing Un
 3.	2022 Merit Student of Southeast University
 4.	2022 Enterprise Scholarship of Southeast University
 5.	2021 Outstanding Volunteer Certificate of Southeast University
+
+**Contact:**
+------
+Jellyliu97@foxmail.com
+Jellyliu9710@gmail.com
