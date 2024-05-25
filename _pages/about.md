@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I will join The State Key Laboratory for Novel Software Technology of Nanjing University in fall 2024 in pursue of the PhD in computer science and technology. I obtained my master's degree in AI from The State Key Laboratory of Millimeter Waves of Southeast University, China. My current research interest includes machine learning, computer vision (including medical image processing), multi-modal intelligent sensing, and AI for edge computing.
+I will join The State Key Laboratory for Novel Software Technology of Nanjing University in fall 2024 in pursue of the PhD in computer science and technology. I obtained my master's degree in AI from The State Key Laboratory of Millimeter Waves of Southeast University, China. My current research interest includes machine learning, computer vision (including medical image processing), multi-modal intelligent sensing, and AI for edge computing. 
+I hope build a path from the sensing and recognition to cognitive and embodied intelligence for AI agent (eg. robot, UAV, edge device, intelligent car and so on). 
 
 
 **Publications:**
@@ -30,3 +31,4 @@ I will join The State Key Laboratory for Novel Software Technology of Nanjing Un
 Jellyliu97@foxmail.com
 
 Jellyliu9710@gmail.com
+
