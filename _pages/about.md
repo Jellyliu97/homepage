@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I will join The State Key Laboratory for Novel Software Technology of Nanjing University in fall 2024 in pursue of the PhD in computer science and technology. I obtained my master's degree in AI from The State Key Laboratory of Millimeter Waves of Southeast University, China. My current research interest includes machine learning, computer vision (including medical image processing), intelligent sensing, and AI for edge.
+I will join The State Key Laboratory for Novel Software Technology of Nanjing University in fall 2024 in pursue of the PhD in computer science and technology. I obtained my master's degree in AI from The State Key Laboratory of Millimeter Waves of Southeast University, China. My current research interest includes machine learning, computer vision (including medical image processing), intelligent sensing, and AI for edge computing.
 
 
 **Publications:**
