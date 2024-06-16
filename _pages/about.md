@@ -12,6 +12,7 @@ I will join The State Key Laboratory for Novel Software Technology (LANDS Group)
 I hope build a path from the sensing and recognition to cognitive and embodied intelligence for AI agent (eg. robot, UAV, edge device, intelligent car and so on). 
 
 **Education Experiences**
+------
 + 2024.09 - 2027.10 (expected)  Nanjing University, Nanjing, China  Ph.D. Computer Science and Technology        
 + 2020.09 – 2023.06  Southeast University, Nanjing, China     M.S. Artificial Intelligence 
 + 2020.07 – 2021.09  Monash University, Melbourne, Australia  M.S. Artificial Intelligence (Dual master’s degree project) 
@@ -35,6 +36,11 @@ I hope build a path from the sensing and recognition to cognitive and embodied i
 + 2022 Merit Student, Southeast University
 + 2022 Enterprise Scholarship, Southeast University
 + 2021 Outstanding Volunteer Certificate, Southeast University
++ 2019 University Level Third-class Scholarship
++ 2018 University Level First-class Scholarship
++ 2017 University Level First-class Scholarship
+
+
 
 **Contact Me:**
 ------
