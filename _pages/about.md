@@ -35,7 +35,7 @@ I hope build a path from the sensing and recognition to cognitive and embodied i
 + **2022 China National Scholarship**
 + 2022 Merit Student, Southeast University
 + 2022 Enterprise Scholarship, Southeast University
-+ 2021 Outstanding Volunteer Certificate, Southeast University
++ 2021 Outstanding Volunteer Certificate
 + 2019 University Level Third-class Scholarship
 + 2018 University Level First-class Scholarship
 + 2017 University Level First-class Scholarship
