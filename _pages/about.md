@@ -20,7 +20,7 @@ I hope build a path from the sensing and recognition to cognitive and embodied i
 
 **Work and Intern Experiences**
 ------
-+ 2023.07 - 2024.06  Software Engineer, Shanghai United Imaging Medical Technology Co. LTD.,  Focus on AI algorithm model research and engineering application development (C++) related to medical image, Specifically, including the development and optimization of ultrasound medical image detection and segmentation algorithm models.
++ 2023.07 - 2024.06  Software Engineer, Shanghai United Imaging Medical Technology Co. LTD.,  focus on AI algorithm model research and engineering application development (C++) related to medical image, Specifically, including the development and optimization of ultrasound medical image detection and segmentation algorithm models.
 
 **Publications:**
 ------
