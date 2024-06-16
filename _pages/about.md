@@ -13,10 +13,10 @@ I hope build a path from the sensing and recognition to cognitive and embodied i
 
 **Education Experiences**
 ------
-+ 2024.09 - 2027.10 (expected)  Nanjing University &emsp Ph.D. &emsp Computer Science and Technology        
-+ 2020.09 – 2023.06  Southeast University  M.S.  Artificial Intelligence 
-+ 2020.07 – 2021.09  Monash University  M.S.  Artificial Intelligence (Dual master’s degree project) 
-+ 2016.09 - 2020.07  Nanchang Hangkong University  B.S.  Electronic Information Engineering
++ 2024.09 - 2027.10 (expected)  Nanjing University | Ph.D. | Computer Science and Technology        
++ 2020.09 – 2023.06  Southeast University | M.S. | Artificial Intelligence 
++ 2020.07 – 2021.09  Monash University | M.S. | Artificial Intelligence (Dual master’s degree project) 
++ 2016.09 - 2020.07  Nanchang Hangkong University | B.S. | Electronic Information Engineering
 
 **Work and Intern Experiences**
 ------
