@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I will join The State Key Laboratory for Novel Software Technology (LANDS Group) of Nanjing University in fall 2024 in pursue of the PhD in computer science and technology. I obtained my master's degree in AI from The State Key Laboratory of Millimeter Waves (AEM Group) of Southeast University, China. My current research interest includes machine learning, computer vision (including medical image processing), multi-modal intelligent sensing, and AI for edge computing. 
+I will join The State Key Laboratory for Novel Software Technology (LANDS Group) of Nanjing University in fall 2024 in pursue of the PhD in computer science and technology. I obtained my master's degree in AI from The State Key Laboratory of Millimeter Waves of Southeast University, China. My current research interest includes machine learning, computer vision (including medical image processing), multi-modal intelligent sensing, and AI for edge computing. 
 I hope build a path from the sensing and recognition to cognitive and embodied intelligence for AI agent (eg. robot, UAV, edge device, intelligent car and so on). 
 
 **Education Experiences**
 ------
-+ 2024.09 - 2027.10 (expected)  Nanjing University  Ph.D.  Computer Science and Technology        
-+ 2020.09 – 2023.06  Southeast University  M.S.  Artificial Intelligence 
-+ 2016.09 - 2020.07  Nanchang Hangkong University  B.S.  Electronic Information Engineering
++ 2024.09 - 2027.10 (expected) 　 Nanjing University  　Ph.D. 　 Computer Science and Technology        
++ 2020.09 – 2023.06 　 Southeast University 　 M.S.  　Artificial Intelligence 
++ 2016.09 - 2020.07  　Nanchang Hangkong University 　 B.S. 　 Electronic Information Engineering
 
 **Work and Intern Experiences**
 ------
-+ 2023.07 - 2024.06  Software Engineer, Shanghai United Imaging Medical Technology Co. LTD.,  focus on AI algorithm model research and engineering application development (C++) related to medical image, Specifically, including the development and optimization of ultrasound medical image detection and segmentation algorithm models.
++ 2023.07 - 2024.06 　 Software Engineer, Shanghai United Imaging Medical Technology Co. LTD.,  focus on AI algorithm model research and engineering application development (C++) related to medical image, Specifically, including the development and optimization of ultrasound medical image detection and segmentation algorithm models.
 
 **Publications:**
 ------
