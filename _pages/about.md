@@ -13,14 +13,13 @@ I hope build a path from the sensing and recognition to cognitive and embodied i
 
 **Education Experiences**
 ------
-+ 2024.09 - 2027.10 (expected) 　 Nanjing University
-  * Ph.D. 　 Computer Science and Technology        
-+ 2020.09 – 2023.06 　 Southeast University 　 M.S.  　Artificial Intelligence 
-+ 2016.09 - 2020.07  　Nanchang Hangkong University 　 B.S. 　 Electronic Information Engineering
++ 2024.09-2027.10 (expected) 　 Nanjing University  　Ph.D. 　 Computer Science and Technology        
++ 2020.09–2023.06 　 Southeast University 　 M.S.  　Artificial Intelligence 
++ 2016.09-2020.07  　Nanchang Hangkong University 　 B.S. 　 Electronic Information Engineering
 
 **Work and Intern Experiences**
 ------
-+ 2023.07 - 2024.06 　 Software Engineer, Shanghai United Imaging Medical Technology Co. LTD.,  focus on AI algorithm model research and engineering application development (C++) related to medical image, Specifically, including the development and optimization of ultrasound medical image detection and segmentation algorithm models.
++ 2023.07-2024.06 　 Software Engineer, Shanghai United Imaging Medical Technology Co. LTD.,  focus on AI algorithm model research and engineering application development (C++) related to medical image, Specifically, including the development and optimization of ultrasound medical image detection and segmentation algorithm models.
 
 **Publications:**
 ------
