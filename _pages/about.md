@@ -13,7 +13,7 @@ I hope build a learning and research path from the sensing and recognition to co
 
 **Education Experiences**
 ------
-+ 2024.09-2027.10 (expected) 　 Nanjing University  　Ph.D. 　 Computer Science and Technology (CS)        
++ 2024.09-2028.07 (expected) 　 Nanjing University  　Ph.D. 　 Computer Science and Technology (CS)        
 + 2020.09–2023.06 　 Southeast University 　 M.S.  　Artificial Intelligence (AI)
 + 2016.09-2020.07  　Nanchang Hangkong University 　 B.S. 　 Electronic Information Engineering (EE)
 
