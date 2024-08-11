@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I will join The State Key Laboratory for Novel Software Technology (LANDS Group) of Nanjing University in fall 2024 in pursue of the PhD in computer science and technology. I obtained my master's degree in AI from The State Key Laboratory of Millimeter Waves of Southeast University, China. My current research interest includes machine learning, computer vision (including medical image processing), multi-modal intelligent sensing, and AI for edge computing. 
-I hope build a learning and research path from the sensing and recognition to cognitive and embodied intelligence for AI agent (eg. robot, UAV, edge device, intelligent vehicle and so on). 
+I will join the State Key Laboratory for Novel Software Technology (LANDS Group) of Nanjing University in fall 2024 in pursue of the PhD in computer science and technology. I obtained my master's degree in AI from the State Key Laboratory of Millimeter Waves of Southeast University, China. My current research interest includes machine learning, computer vision (including medical image processing), multi-modal intelligent sensing, and AI for edge computing. 
+I hope build a learning and research path from the sensing and recognition to cognitive and embodied intelligence for AI agent (e.g. robot, UAV, edge device, intelligent vehicle and so on). 
 
 **Education Experiences**
 ------
