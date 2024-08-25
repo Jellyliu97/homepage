@@ -43,7 +43,8 @@ I hope build a learning and research path from the sensing and recognition to co
 
 **Contact Me:**
 ------
++ EricLiu@smail.nju.edu.cn
 + Jellyliu97@foxmail.com
 
-+ Jellyliu9710@gmail.com
+
 
