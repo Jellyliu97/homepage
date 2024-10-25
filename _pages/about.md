@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am first year of PhD in computer science and technology at the **State Key Laboratory for Novel Software Technology** (LANDS Group) of Nanjing University. I obtained my master's degree in artificial intelligence from the **State Key Laboratory of Millimeter Waves** of Southeast University, China. My current research interest includes machine learning, computer vision (including medical image processing), multi-modal intelligent sensing, and AI for edge computing. 
+I am first year of PhD in computer science and technology at the **State Key Laboratory for Novel Software Technology** (LANDS Group) of Nanjing University. I obtained my master's degree in artificial intelligence from the **State Key Laboratory of Millimeter Waves** of Southeast University, China. My current research interest includes machine learning, computer vision (including medical image processing), multi-modal intelligent sensing, and human-computer interaction. 
 I hope build a learning and research path from the sensing and recognition to cognitive and embodied intelligence for AI agent (e.g. robot, UAV, edge device, intelligent vehicle and so on). 
 
 **Education Experiences**
