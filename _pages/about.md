@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am first year of PhD in computer science and technology at the **State Key Laboratory for Novel Software Technology** (LANDS Group) of Nanjing University. I obtained my master's degree in artificial intelligence from the **State Key Laboratory of Millimeter Waves** (AEM Group) of Southeast University, China. My current research interest includes machine learning (diffusion model), computer vision (including medical image processing), multi-modal intelligent sensing (mmwave vision), audio processing and human-computer interaction. I hope build a learning and research path from the sensing and recognition to cognitive and embodied intelligence for AI agent (e.g. robot, UAV, edge device, intelligent vehicle and so on). 
+I am in the first year of a PhD in computer science and technology at the **State Key Laboratory for Novel Software Technology** (LANDS Group) of Nanjing University. I obtained my master's degree in artificial intelligence from the **State Key Laboratory of Millimeter Waves** (AEM Group) of Southeast University, China. My current research interests include computer vision (including medical image processing), multi-modal intelligent sensing (mmwave vision), and human-computer interaction. I plan to build a learning and research path from sensing and recognition to cognitive and embodied intelligence for AI agents (e.g., robots, UAVs, edge devices, intelligent vehicles, and so on). 
 
 **Education Experiences**
 ------
@@ -22,10 +22,13 @@ I am first year of PhD in computer science and technology at the **State Key Lab
 
 **Publications:**
 ------
-1.	**Guo Dong Liu**, Wang Sheng Hu, Wen Ying Hou, Sheng Jie Huang, Du Ming Cao, Hai Peng Wang, Yu Xuan Zhou, Fei He, and Yun Bo Li. Indoor Positioning and Posture Recognition of Human Boby Applying Integrating-Type Intelligent Metasurfaces Based Sensing System, **Advanced Materials Technologies 2023** (Q1, IF: 8.856). [paper link](https://doi.org/10.1002/admt.202301006)
-2.	Hai Peng Wang, Yu Xuan Zhou, He Li, (Co-first Authors) **Guo Dong Liu**, Si Meng Yin, Peng Ju Li, Shu Yue Dong, Chao Yue Gong, Shi Yu Wang, Yun Bo Li, and Tie Jun Cui. Non-contact electromagnetic wireless recognition for prosthesis based on intelligent metasurface, **Advanced Science, 2022** (Q1, IF: 17.521). [paper link](https://doi.org/10.1002/advs.202105056)
-3.	**Guo Dong Liu**, Hai Peng  Wang, He Li and Yun Bo Li, Intelligent Metasurface with Machine Learning for Non-contact Hand Gesture Recognition, **ACES 2022**. (**Oral presentation**)
-4.	He Li, Yun Bo Li, Wang Sheng Hu, Sheng Jie Huang, Jia Lin Shen, Shi Yu Wang, **Guo Dong Liu**, and Tie Jun Cui. Joint Detections of Frequency and Direction of Arrival in Wideband Based on Programmable Metasurface, **IEEE Transactions on Antennas and Propagation 2023** (Q1, IF: 5.7).
+1. Indoor Positioning and Posture Recognition of Human Body Applying Integrating-Type Intelligent Metasurfaces Based Sensing System, **Advanced Materials Technologies 2023** (Q1, IF: 8.856, First author). [paper link](https://doi.org/10.1002/admt.202301006)
+2. Non-contact electromagnetic wireless recognition for prosthesis based on intelligent metasurface, **Advanced Science, 2022** (Q1, IF: 17.521, Second author). [paper link](https://doi.org/10.1002/advs.202105056)
+3. Intelligent Metasurface with Machine Learning for Non-contact Hand Gesture Recognition, **ACES 2022**. (**Oral presentation**, First author)
+4. Joint Detections of Frequency and Direction of Arrival in Wideband Based on Programmable Metasurface, **IEEE Transactions on Antennas and Propagation 2023** (Q1, IF: 5.7).
+5. mmMPS: LM-assisted Acoustic Eavesdropping in Multi-speaker Scenarios via Commercial mmWave Radar, **Ubicomp/IMWUT 2025**. (CCF-A, First author)
+
+
 
 **Part of Awards:**
 ------
