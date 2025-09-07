@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am in the first year of a PhD in computer science and technology at the **State Key Laboratory for Novel Software Technology** (LANDS Group) of Nanjing University. I obtained my master's degree in artificial intelligence from the **State Key Laboratory of Millimeter Waves** (AEM Group) of Southeast University, China. My current research interests include computer vision (including medical image processing), multi-modal intelligent sensing (vision, mmwave, ultrasound, accelerometer, and so on), and human-computer interaction. I plan to build a learning and research path from sensing and recognition to cognitive and embodied intelligence for AI agents (e.g., robots, UAVs, edge devices, intelligent vehicles, and so on). 
+I am in the second year of a PhD in computer science and technology at the **State Key Laboratory for Novel Software Technology** (LANDS Group) of Nanjing University. I obtained my master's degree in artificial intelligence from the **State Key Laboratory of Millimeter Waves** (AEM Group) of Southeast University, China. My current research interests include computer vision (including medical image processing), multi-modal intelligent sensing (vision, mmwave, ultrasound, accelerometer, and so on), and human-computer interaction. I plan to build a learning and research path from sensing and recognition to cognitive and embodied intelligence for AI agents (e.g., robots, UAVs, edge devices, intelligent vehicles, and so on). 
 
 **Education Experiences**
 ------
@@ -24,10 +24,20 @@ I am in the first year of a PhD in computer science and technology at the **Stat
 ------
 1. Indoor Positioning and Posture Recognition of Human Body Applying Integrating-Type Intelligent Metasurfaces Based Sensing System, **Advanced Materials Technologies 2023** (Q1, IF: 8.856, First author). [paper link](https://doi.org/10.1002/admt.202301006)
 2. Non-contact electromagnetic wireless recognition for prosthesis based on intelligent metasurface, **Advanced Science, 2022** (Q1, IF: 17.521, Second author). [paper link](https://doi.org/10.1002/advs.202105056)
-3. Intelligent Metasurface with Machine Learning for Non-contact Hand Gesture Recognition, **ACES 2022**. (**Oral presentation**, First author)
+3. Intelligent Metasurface with Machine Learning for Non-contact Hand Gesture Recognition, **ACES 2022**. (**Oral presentation**, First Author)
 4. Joint Detections of Frequency and Direction of Arrival in Wideband Based on Programmable Metasurface, **IEEE Transactions on Antennas and Propagation 2023** (Q1, IF: 5.7).
-5. mmMPS: LM-assisted Acoustic Eavesdropping in Multi-speaker Scenarios via Commercial mmWave Radar, **Ubicomp/IMWUT 2025**. (CCF-A, First author)
-
+5. mmMPS: LM-assisted Acoustic Eavesdropping in Multi-speaker Scenarios via Commercial mmWave Radar, **Ubicomp/IMWUT 2025**. (CCF-A, First Author)
+6. AccVoice: A General Method for Restoring Audio from Accelerometer Signals of Commercial Devices, **CHI 2026**. (CCF-A, First Author)
+7. AccMic:  Use the Accelerometer of A Commercial Device as an Anti-noise Voice Microphone (CCF-A First Author, coming soon)
+8. AccMic2: A Real-time Anti-noise Accelerometer Microphone (CCF-A First Author, coming soon)
+9. Watch3DPose (CCF-A First Author, coming soon)
+10. (CCF-A First Author, coming soon)
+11. (CCF-A First Author, coming soon)
+12. (CCF-A First Author, coming soon)
+13. (CCF-A First Author, coming soon)
+14. (CCF-A First Author, coming soon)
+15. (CCF-A First Author, coming soon)
+16. (CCF-A First Author, coming soon)
 
 
 **Part of Awards:**
