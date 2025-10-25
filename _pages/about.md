@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in computer science and technology at the **State Key Laboratory for Novel Software Technology** (LANDS Group) of Nanjing University. I obtained my master's degree in artificial intelligence from the **State Key Laboratory of Millimeter Waves** (AEM Group) of Southeast University, China. My current research interests include machine learning, AIGC, multi-modal intelligent sensing (vision, mmWave, ultrasound, accelerometer, and so on), and human-computer interaction. I plan to build a learning and research path from sensing and recognition to cognitive and embodied intelligence for AI agents (e.g., robots, UAVs, edge devices, intelligent vehicles, and so on). 
+I am a second-year PhD student in computer science and technology at the **State Key Laboratory for Novel Software Technology** (LANDS Group) of Nanjing University. I obtained my master's degree in artificial intelligence from the **State Key Laboratory of Millimeter Waves** (AEM Group) of Southeast University, China. My current research interests include AIGC, multi-modal intelligent sensing (vision, mmWave, ultrasound, accelerometer, and so on), and human-computer interaction. I plan to build a learning and research path from sensing and recognition to cognitive and embodied intelligence for AI agents (e.g., robots, UAVs, edge devices, intelligent vehicles, and so on). 
 
 **Education Experiences**
 ------
@@ -35,8 +35,8 @@ I am a second-year PhD student in computer science and technology at the **State
 11. WH(CCF-A, Second Author, coming soon)
 12. DX(CCF-A, coming soon)
 13. WL(CCF-A Top, Second Author, coming soon)
-14. (CCF-A First Author, coming soon)
-15. (CCF-A First Author, coming soon)
+14. WL-A(CCF-A First Author, coming soon)
+15. QR(CCF-A Second Author, coming soon)
 16. (CCF-A First Author, coming soon)
 17. (CCF-A First Author, coming soon)
 
