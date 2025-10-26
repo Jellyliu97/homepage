@@ -36,7 +36,7 @@ I am a second-year PhD student in computer science and technology at the **State
 12. DX(CCF-A, coming soon)
 13. WL(CCF-A Top, Second Author, coming soon)
 14. WL-A(CCF-A / NCS series, First Author, coming soon)
-15. QR(CCF-A Second Author, coming soon)
+15. QR(CCF-B Second Author, coming soon)
 16. (CCF-A First Author, coming soon)
 17. (CCF-A First Author, coming soon)
 
