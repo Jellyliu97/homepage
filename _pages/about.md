@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in computer science and technology at the **State Key Laboratory for Novel Software Technology** (LANDS Group) of Nanjing University. I obtained my master's degree in artificial intelligence from the **State Key Laboratory of Millimeter Waves** (AEM Group) of Southeast University, China. My current research interests include AIGC, RL, multi-modal intelligent sensing (vision, mmWave, ultrasound, accelerometer, and so on), and human-computer interaction. I plan to build a learning and research path from sensing and recognition to cognitive and embodied intelligence for AI agents (e.g., robots, UAVs, edge devices, intelligent vehicles, and so on). 
+I am a second-year PhD student in computer science and technology at the **State Key Laboratory for Novel Software Technology** (LANDS Group) of Nanjing University. I obtained my master's degree in artificial intelligence from the **State Key Laboratory of Millimeter Waves** (AEM Group) of Southeast University, China. My current research interests include AIGC, RL, multi-modal intelligent sensing (vision, mmWave, ultrasound, accelerometer, and so on), and human-computer interaction. I hope to build a learning and research path from sensing and recognition to cognitive and embodied intelligence for AI agents (e.g., robots, UAVs, edge devices, intelligent vehicles, and so on). 
 
 **Education Experiences**
 ------
@@ -29,16 +29,16 @@ I am a second-year PhD student in computer science and technology at the **State
 5. mmMPS: LAM-Assisted Acoustic Eavesdropping in Multi-speaker Scenarios via Commercial mmWave Radar, **Ubicomp/IMWUT 2025**. (HCI and Sensing Top, CCF-A, First Author)
 6. 基于自适应声源融合的轻量级毫米波雷达被动窃听系统, **电子学报 2025**. (CCF-A China Top)
 7. AccVoice: General Speech Recovery for Voice Calls Using Smartphone's Built-in Accelerometer, **SenSys 2026**. (Sensing Top, CCF-A, First Author)
-8. AccVoice2:  Use the Accelerometer of A Commercial Smartphone as an Anti-Noise Voice Microphone (CCF-A First Author, coming soon)
-9. AccMic: A Real-Time Anti-Noise Accelerometer Microphone (CCF-A First Author, coming soon)
+8. AccVoice2:  Use the Accelerometer of A Commercial Smartphone as an Anti-Noise Voice Microphone (CCF-A, First Author, coming soon)
+9. AccMic: A Real-Time Anti-Noise Accelerometer Microphone (CCF-A, First Author, coming soon)
 10. Gait3DPose(CCF-A Top, First Author, coming soon)
 11. WH(CCF-A, Second Author, coming soon)
 12. DX(CCF-A, coming soon)
 13. WL(CCF-A Top, Second Author, coming soon)
 14. WL-A(CCF-A / NCS series, First Author, coming soon)
-15. QR(CCF-B Second Author, coming soon)
-16. (CCF-A First Author, coming soon)
-17. (CCF-A First Author, coming soon)
+15. QR(CCF-B, Second Author, coming soon)
+16. (CCF-A, First Author, coming soon)
+17. (CCF-A, First Author, coming soon)
 
 
 **Part of Awards:**
