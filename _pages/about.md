@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in computer science and technology at the **State Key Laboratory for Novel Software Technology** (LANDS Group) of Nanjing University. I obtained my master's degree in artificial intelligence from the **State Key Laboratory of Millimeter Waves** (AEM Group) of Southeast University, China. My current research interests include AIGC, RL, multi-modal intelligent sensing (vision, mmWave, ultrasound, accelerometer, and so on), and human-computer interaction. I hope to build a learning and research path from sensing, recognition, and cognitive to embodied intelligence and AI agents (e.g., robots, UAVs, edge devices, intelligent vehicles, and so on). 
+I am a second-year PhD student in computer science and technology at the **State Key Laboratory for Novel Software Technology** (LANDS Group) of Nanjing University. I obtained my master's degree in artificial intelligence from the **State Key Laboratory of Millimeter Waves** (AEM Group) of Southeast University, China. My current research interests include AIGC, RL, LM, multi-modal intelligent sensing (vision, mmWave, accelerometer, ultrasound, and so on), and human-computer interaction. I hope to build a learning and research path from sensing, recognition, and cognitive to embodied intelligence and AI agents (e.g., robots, UAVs, edge devices, intelligent vehicles, and so on). 
 
 **Education Experiences**
 ------
