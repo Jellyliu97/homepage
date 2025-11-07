@@ -32,13 +32,13 @@ I am a second-year PhD student in computer science and technology at the **State
 8. MagneTact: Utilizing Deformation-Induced Magnetic Field Variation for Tactile Sensing on Smartphones, **Ubicomp/IMWUT 2026**. (HCI and Sensing Top, CCF-A)
 9. AccVoice2:  Use the Accelerometer of A Commercial Smartphone as an Anti-Noise Voice Microphone (CCF-A Journal, First Author, coming soon)
 10. AccMic: A Real-Time Anti-Noise Accelerometer Microphone (CCF-A Top, First Author, coming soon)
-11. WL(CCF-A Top, Second Author, coming soon)
-12. WL-A(CCF-A / NCS series, First Author, coming soon)
+11. PCG3DHeart(CCF-A Top, Second Author, coming soon)
+12. WL-A(CCF-A / NCS series, coming soon)
 13. Gait3DPose(CCF-A Top, First Author, coming soon)
-14. WH(CCF-A, Co-first Author, coming soon)
-15. QR(CCF-A, First Author, coming soon)
+14. WH(CCF-A, coming soon)
+15. QR(CCF-A, coming soon)
 16. AccFace(CCF-A, First Author, coming soon)
-17. Watch3DPose(CCF-A, First Author, coming soon)
+
 
 
 **Part of Awards:**
