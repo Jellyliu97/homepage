@@ -38,6 +38,8 @@ I am a second-year PhD student in computer science and technology at the **State
 14. WH(CCF-A, coming soon)
 15. QR(CCF-A, coming soon)
 16. AccFace(CCF-A, First Author, coming soon)
+17. AccWatermaker(CCF-A Top, First Author, coming soon)
+18. Watch3DPose(CCF-A, First Author, coming soon)
 
 
 
