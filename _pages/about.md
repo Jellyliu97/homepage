@@ -33,13 +33,14 @@ I am a second-year PhD student in computer science and technology at the **State
 9. AccVoice2:  Use the Accelerometer of A Commercial Smartphone as an Anti-Noise Voice Microphone (CCF-A Journal, First Author, coming soon)
 10. AccMic: A Real-Time Anti-Noise Accelerometer Microphone (CCF-A Top, First Author, coming soon)
 11. PCG3DHeart(CCF-A Top, Second Author, coming soon)
-12. WL-A(CCF-A / NCS series, coming soon)
-13. Gait3DPose(CCF-A Top, First Author, coming soon)
-14. WH(CCF-A, coming soon)
-15. QR(CCF-A, coming soon)
-16. AccFace(CCF-A, First Author, coming soon)
-17. AccWatermaker(CCF-A Top, First Author, coming soon)
-18. Watch3DPose(CCF-A, First Author, coming soon)
+12. AccSeal: Encrypt Your Speech Command (CCF-A Top, First Author, coming soon)
+13. WL-A(CCF-A / NCS series, First Author, coming soon)
+14. Gait3DPose(CCF-A Top, First Author, coming soon)
+15. WH(CCF-A, coming soon)
+16. QR(CCF-A, First Author, coming soon)
+17. KR(CCF-A, coming soon)
+18. AccFace(CCF-A, First Author, coming soon)
+19. Watch3DPose(CCF-A, First Author, coming soon)
 
 
 
