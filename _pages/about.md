@@ -14,7 +14,7 @@ I am a second-year PhD student in computer science and technology at the **State
 ------
 + 2024.09-2027.10 (expected) 　 Nanjing University  　Ph.D. 　 Computer Science and Technology (CS)        
 + 2020.09–2023.06 　 Southeast University 　 M.S.  　Artificial Intelligence (AI)
-+ 2016.09-2020.07  　Nanchang Hangkong University 　 B.S. 　 Electronic Information Engineering (EE)
+%%+ 2016.09-2020.07  　Nanchang Hangkong University 　 B.S. 　 Electronic Information Engineering (EE)
 
 **Work and Intern Experiences**
 ------
