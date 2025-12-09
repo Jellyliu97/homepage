@@ -35,7 +35,7 @@ I am a second-year PhD student in computer science and technology at the **State
 9. AccVoice2:  Use the Accelerometer of A Commercial Smartphone as an Anti-Noise Voice Microphone (CCF-A Journal, First Author, coming soon)
 10. AccMic: A Real-Time Anti-Noise Accelerometer Microphone (CCF-A Top, First Author, coming soon)
 11. AccSeal: Real-Time Watermarking Your Speech (CCF-A Top, First Author, coming soon)
-12. UltraSound Watermarking (CCF-A Top, Second Author, coming soon)
+12. UltraPrint: UltraSound for Video Watermark (CCF-A Top, Second Author, coming soon)
 13. WH (CCF-A Top, Co-First Author, coming soon)
 14. PCG3DHeart (CCF-A Top, First Author, coming soon)
 15. Gait3DPose (CCF-A Top, First Author, coming soon)
