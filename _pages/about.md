@@ -37,7 +37,7 @@ I am a second-year PhD student in computer science and technology at the **State
 11. AccSeal: Real-Time Watermarking Your Speech (CCF-A Top, First Author, coming soon)
 12. UltraPrint: UltraSound for Video Print (CCF-A Top, Second Author, coming soon)
 13. UAP: UltraSound for Audio Print (HCI and Sensing Top, CCF-A, First Author, coming soon)
-14. KR (CCF-A, coming soon)
+14. FAE: A Flow-based Autoencoder for Wi-Fi CSI Sensing (CCF-A, coming soon)
 15. WH (CCF-A Top, Co-First Author, coming soon)
 16. PCG3DHeart (CCF-A Top, First Author, coming soon)
 17. Gait3DPose (CCF-A Top, First Author, coming soon)
