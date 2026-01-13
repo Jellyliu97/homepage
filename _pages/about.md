@@ -51,6 +51,7 @@ I am a second-year PhD student in computer science and technology at the **State
 
 **Part of Awards:**
 ------
++ **2026 China National Scholarship** coming soon
 + 2023 Outstanding Graduate, Southeast University
 + **2022 China National Scholarship**
 + 2022 Merit Student, Southeast University
