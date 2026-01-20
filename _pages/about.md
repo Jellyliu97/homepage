@@ -28,10 +28,10 @@ I am a second-year PhD student in computer science and technology at the **State
 2. Non-contact electromagnetic wireless recognition for prosthesis based on intelligent metasurface, **Advanced Science, 2022** (Q1 Top, IF: 17.521, Second Author). [paper link](https://doi.org/10.1002/advs.202105056)
 3. Intelligent Metasurface with Machine Learning for Non-contact Hand Gesture Recognition, **ACES 2022**. (Computational Electromagnetics Top, **Oral presentation**, First Author)
 4. Joint Detections of Frequency and Direction of Arrival in Wideband Based on Programmable Metasurface, **IEEE Transactions on Antennas and Propagation 2023** (Q1 Top, IF: 5.7).
-5. LAM-Assisted Acoustic Eavesdropping in Multi-speaker Scenarios via Commercial mmWave Radar, **Ubicomp/IMWUT 2026**. (HCI and Sensing Top, CCF-A, First Author)
+5. LAM-Assisted Acoustic Eavesdropping in Multi-speaker Scenarios via Commercial mmWave Radar, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A, First Author)
 6. 基于自适应声源融合的轻量级毫米波雷达被动窃听系统, **电子学报 2025**. (CCF-T1 China Top)
 7. AccVoice: General Speech Recovery for Voice Calls Using Smartphone's Built-in Accelerometer, **SenSys 2026**. (Sensing Top, CCF-A, First Author)
-8. MagneTact: Utilizing Deformation-Induced Magnetic Field Variation for Tactile Sensing on Smartphones, **Ubicomp/IMWUT 2026**. (HCI and Sensing Top, CCF-A)
+8. MagneTact: Utilizing Deformation-Induced Magnetic Field Variation for Tactile Sensing on Smartphones, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A)
 9. AccVoice2:  Use the Accelerometer of A Commercial Smartphone as an Anti-Noise Voice Microphone, **TMC 2026**. (CCF-A Journal, First Author, coming soon)
 10. AccMic: A Real-Time Anti-Noise Accelerometer Microphone (CCF-A Top, First Author, coming soon)
 11. AccSeal: Real-Time Watermarking Your Speech, **Mobicom 2026**. (CCF-A Top, First Author, coming soon)
