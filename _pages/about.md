@@ -14,8 +14,9 @@ My current research interests include
 2. Edge and embodied AI (1Bit LM, Sensing LM, Model Lightweighting, RL, Edge Agent);
 3. Representative learning (Diffusion, Flow Matching, AIGC).
 
-I hope to build a learning and research path from sensing, recognition, and cognitive to embodied intelligence and AI agents (e.g., robots, UAVs, edge devices, intelligent vehicles, and so on). 
-    
+I hope to build a learning and research path from sensing, recognition, and cognitive to embodied intelligence and AI agents.
+
+<!--(e.g., robots, UAVs, edge devices, intelligent vehicles, and so on).--> 
 <!--I obtained my master's degree in artificial intelligence (AI) from the **State Key Laboratory of Millimeter Waves** (AEM Group) of Southeast University, China. -->
 <!--
 **Education Experiences**
