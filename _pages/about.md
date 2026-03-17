@@ -42,7 +42,7 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 9. AccVoice2:  Use the Accelerometer of A Commercial Smartphone as an Anti-Noise Voice Microphone, **TMC 2026**. (CCF-A Journal, First Author, coming soon)
 10. AccMic: A Real-Time Anti-Noise Accelerometer Microphone (CCF-A Top, First Author, coming soon)
 11. AccSeal: Online Watermarking Your Speech, **Mobicom 2026**. (CCF-A Top, First Author, coming soon)
-12. UltraGuard: Online Watermarking Against Deepfake of Face Videos, **Mobicom 2026**. (CCF-A Top, Student First Author, coming soon)
+12. UltraGuard: Online Watermarking Against Deepfake of Face Videos, **Mobicom 2026**. (CCF-A Top, First Student Author, coming soon)
 13. UAP: UltraSound for Audio Print, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A, First Author, coming soon)
 14. WH (CCF-A Top, Co-First Author, coming soon)
 15. PCG3DHeart (CCF-A Top, First Author, coming soon)
