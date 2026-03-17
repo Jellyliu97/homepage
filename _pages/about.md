@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in computer science and technology (CS) at the **State Key Laboratory for Novel Software Technology** of Nanjing University. My current research interests include ML/DL (AIGC, RL, LM, Agent), multi-modal intelligent sensing (vision, Speech, mmWave, accelerometer, ultrasound, WiFi, and so on), and human-computer interaction. I hope to build a learning and research path from sensing, recognition, and cognitive to embodied intelligence and AI agents (e.g., robots, UAVs, edge devices, intelligent vehicles, and so on). 
+I am a second-year PhD student in computer science and technology at the **State Key Laboratory for Novel Software Technology** of Nanjing University. 
+My current research interests include 
+1. Multi-modal intelligent sensing (Vision, Speech, mmWave, Accelerometer, Ultrasound, WiFi, and so on), and human-computer interaction;
+2. Edge and embodied AI (1Bit LM, Model Lightweight, RL, Edge Agent);
+3. ML/DL Representative Learning (Diffusion, Flow Matching, AIGC).
+
+I hope to build a learning and research path from sensing, recognition, and cognitive to embodied intelligence and AI agents (e.g., robots, UAVs, edge devices, intelligent vehicles, and so on). 
     
 <!--I obtained my master's degree in artificial intelligence (AI) from the **State Key Laboratory of Millimeter Waves** (AEM Group) of Southeast University, China. -->
 <!--
