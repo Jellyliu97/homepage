@@ -59,7 +59,7 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 **Part of Awards:**
 ------
 + **2026 China National Scholarship** coming soon
-+ **Special Award of the Ministry of Health of Saudi Arabia** at the 51st Geneva International Exhibition of Inventions (Top 0.5%, First Student Author)
++ **Special Award of the Ministry of Health of the Kingdom of Saudi Arabia** at the 51st International Exhibition of Inventions Geneva, Geneva, Switzerland 2026 (Top 0.5%, First Student Author)
 + 2023 Outstanding Graduate, Southeast University
 + **2022 China National Scholarship**
 + 2022 Merit Student, Southeast University
