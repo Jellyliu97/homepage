@@ -42,7 +42,7 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 + AccSeal: Online Watermarking Your Speech, **Mobicom 2026**. (CCF-A Top, First Author, coming soon)
 + UltraGuard: Online Watermarking Against Deepfake of Face Videos, **Mobicom 2026**. (CCF-A Top, First Student Author, coming soon)
 + MagneTact: Utilizing Deformation-Induced Magnetic Field Variation for Tactile Sensing on Smartphones, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A)
-+ SonoSeal: UltraSound for Audio Print, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A, First Author, coming soon)
++ Online Audio Watermarking Based on Smartphone Ultrasound Signals, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A, First Author, coming soon)
 + AccMic: A Real-Time Anti-Noise Accelerometer Microphone (CCF-A Top, First Author, coming soon)
 + AccVoice2:  Use the Accelerometer of A Commercial Smartphone as an Anti-Noise Voice Microphone, **TMC 2026**. (CCF-A Journal, First Author, coming soon)
 + WH (CCF-A Top, Co-First Author, coming soon)
