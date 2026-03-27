@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in computer science and technology at the **State Key Laboratory for Novel Software Technology** Lands group of Nanjing University. 
+I am a second-year PhD student in computer science and technology at the **State Key Laboratory for Novel Software Technology** (Lands group) of Nanjing University. 
 My current research interests include 
 1. Multi-modal intelligent sensing (Vision, Speech, mmWave, Accelerometer, Ultrasound, WiFi, and so on), and HCI;
 2. Edge LM and embodied AI (1Bit LM, Sensing LM, Model Lightweighting, RL, Edge Agent);
