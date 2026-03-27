@@ -43,7 +43,7 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 + UltraGuard: Online Watermarking Against Deepfake of Face Videos, **Mobicom 2026**. (CCF-A Top, First Student Author)
 + MagneTact: Utilizing Deformation-Induced Magnetic Field Variation for Tactile Sensing on Smartphones, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A)
 + Online Audio Watermarking Based on Smartphone Ultrasound Signals, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A, First Author, coming soon)
-+ AccMic: An Anti-Noise Accelerometer Microphone (CCF-A Top, First Author, coming soon)
++ AccMic: An Anti-Noise Accelerometer Speech Microphone (CCF-A Top, First Author, coming soon)
 + Use the Accelerometer of A Commercial Smartphone as an Anti-Noise Voice Microphone, **TMC 2026**. (CCF-A Journal, First Author, coming soon)
 + WH (CCF-A Top, Co-First Author, coming soon)
 + PCG3DHeart (CCF-A Top, First Author, coming soon)
