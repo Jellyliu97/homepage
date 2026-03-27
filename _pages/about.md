@@ -11,7 +11,7 @@ redirect_from:
 I am a second-year PhD student in computer science and technology at the **State Key Laboratory for Novel Software Technology** (Lands group) of Nanjing University. 
 My current research interests include 
 1. Multi-modal intelligent sensing (Vision, Speech, mmWave, Accelerometer, Ultrasound, WiFi, and so on), and HCI;
-2. Edge LM and embodied AI (1Bit LM, Sensing LM, Model Lightweighting, RL, Sensing Agent, XLA);
+2. Edge LM and embodied AI (1Bit LM, Sensing LM/Agent, Model Lightweighting, RL, XLA);
 3. Representation learning (Diffusion, Flow Matching, AIGC).
 
 I hope to build a learning and research path from sensing, recognition, and cognitive to embodied intelligence and AI agents.
