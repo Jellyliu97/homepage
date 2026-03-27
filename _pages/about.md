@@ -61,7 +61,7 @@ Intelligent IoT of graduate student course,  2025 fall
 **Part of Awards:**
 ------
 + **2026 China National Scholarship** coming soon
-+ 2026 **Outstanding Achievement in Innovation** in the 51st International Exhibition of Inventions Geneva (Top 0.5%, First Student Author)
++ 2026 **Outstanding Achievement in Innovation** in the 51st International Exhibition of Inventions Geneva (Top 0.1-0.5%, First Student Author)
 + 2023 Outstanding Graduate, Southeast University
 + **2022 China National Scholarship**
 + 2022 Merit Student, Southeast University
