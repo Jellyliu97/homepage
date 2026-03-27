@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in computer science and technology at the **State Key Laboratory for Novel Software Technology** of Nanjing University. 
+I am a second-year PhD student in computer science and technology at the **State Key Laboratory for Novel Software Technology** Lands group of Nanjing University. 
 My current research interests include 
 1. Multi-modal intelligent sensing (Vision, Speech, mmWave, Accelerometer, Ultrasound, WiFi, and so on), and HCI;
-2. Edge and embodied AI (1Bit LM, Sensing LM, Model Lightweighting, RL, Edge Agent);
+2. Edge LM and embodied AI (1Bit LM, Sensing LM, Model Lightweighting, RL, Edge Agent);
 3. Representation learning (Diffusion, Flow Matching, AIGC).
 
 I hope to build a learning and research path from sensing, recognition, and cognitive to embodied intelligence and AI agents.
@@ -54,7 +54,9 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 + AccFace (CCF-A, First Author, coming soon)
 + Watch3DPose (CCF-A, First Author, coming soon)
 
-
+**Teaching Assistant**
+------
+Intelligent IoT of graduate student course,  2025 fall
 
 **Part of Awards:**
 ------
@@ -68,8 +70,6 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 + 2019 University Level Third-class Scholarship
 + 2018 University Level First-class Scholarship
 + 2017 University Level First-class Scholarship
-
-
 
 **Contact Me:**
 ------
