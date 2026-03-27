@@ -56,7 +56,7 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 
 **Teaching Assistant**
 ------
-Intelligent IoT of graduate student course,  2025 fall
+Intelligent IoT of graduate course,  2025 fall
 
 **Part of Awards:**
 ------
