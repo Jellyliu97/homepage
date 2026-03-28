@@ -39,8 +39,8 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 + LAM-Assisted Acoustic Eavesdropping in Multi-speaker Scenarios via Commercial mmWave Radar, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A, First Author)
 + 基于自适应声源融合的轻量级毫米波雷达被动窃听系统, **电子学报 2025**. (CCF-T1 China Top)
 ------
-+ AccVoice: General Speech Recovery for Voice Calls Using Smartphone's Built-in Accelerometer, **Mobicom 2026**. (Sensing Top, CCF-A, First Author)
-+ AccMic: An Anti-Noise Accelerometer Speech Microphone, **INFOCOM 2026**. (Mobile Computing Top, CCF-A, First Author, coming soon)
++ AccVoice: General Speech Recovery for Voice Calls Using Smartphone's Built-in Accelerometer, **Mobicom 2026**. (CCF-A Top, First Author)
++ AccMic: An Anti-Noise Accelerometer Speech Microphone, **INFOCOM 2026**. (CCF-A, First Author, coming soon)
 + Use the Accelerometer of A Commercial Smartphone as an Anti-Noise Voice Microphone, **TMC 2026**. (CCF-A Journal, First Author, coming soon)
 ------
 + AccSeal: Online Watermarking Your Speech, **Mobicom 2026**. (CCF-A Top, First Author)
