@@ -38,21 +38,25 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 + Joint Detections of Frequency and Direction of Arrival in Wideband Based on Programmable Metasurface, **IEEE Transactions on Antennas and Propagation 2023** (Q1 Top, IF: 5.7).
 + LAM-Assisted Acoustic Eavesdropping in Multi-speaker Scenarios via Commercial mmWave Radar, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A, First Author)
 + 基于自适应声源融合的轻量级毫米波雷达被动窃听系统, **电子学报 2025**. (CCF-T1 China Top)
+------
 + AccVoice: General Speech Recovery for Voice Calls Using Smartphone's Built-in Accelerometer, **Mobicom 2026**. (Sensing Top, CCF-A, First Author)
++ AccMic: An Anti-Noise Accelerometer Speech Microphone, **INFOCOM 2026**. (Mobile Computing Top, CCF-A, First Author, coming soon)
++ Use the Accelerometer of A Commercial Smartphone as an Anti-Noise Voice Microphone, **TMC 2026**. (CCF-A Journal, First Author, coming soon)
+------
 + AccSeal: Online Watermarking Your Speech, **Mobicom 2026**. (CCF-A Top, First Author)
 + UltraGuard: Online Watermarking Against Deepfake of Face Videos, **Mobicom 2026**. (CCF-A Top, First Student Author)
-+ MagneTact: Utilizing Deformation-Induced Magnetic Field Variation for Tactile Sensing on Smartphones, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A)
 + Online Audio Watermarking Based on Smartphone Ultrasound Signals, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A, First Author, coming soon)
-+ AccMic: An Anti-Noise Accelerometer Speech Microphone (CCF-A Top, First Author, coming soon)
-+ Use the Accelerometer of A Commercial Smartphone as an Anti-Noise Voice Microphone, **TMC 2026**. (CCF-A Journal, First Author, coming soon)
-+ WH (CCF-A Top, Co-First Author, coming soon)
+------
 + PCG3DHeart (CCF-A Top, First Author, coming soon)
 + Gait3DPose (CCF-A Top, First Author, coming soon)
 + WL-A (CCF-A / NCS series, First Author, coming soon)
-+ WH (CCF-A, coming soon)
-+ QR (CCF-A, First Author, coming soon)
+------
 + AccFace (CCF-A, First Author, coming soon)
 + Watch3DPose (CCF-A, First Author, coming soon)
+------
++ MagneTact: Utilizing Deformation-Induced Magnetic Field Variation for Tactile Sensing on Smartphones, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A)
++ WH (CCF-A Top, Co-First Author, coming soon)
++ WH (CCF-A Top, Co-First Author, coming soon)
 
 **Teaching Assistant**
 ------
