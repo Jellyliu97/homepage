@@ -49,7 +49,7 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 + 
 + PCG3DHeart (CCF-A Top, First Author, coming soon)
 + Gait3DPose (CCF-A Top, First Author, coming soon)
-+ YJ (CCF-A / NCS series, First Author, coming soon)
++ YJ (NCS series, First Author, coming soon)
 + 
 + AccFace (CCF-A, First Author, coming soon)
 + Watch3DPose (CCF-A, First Author, coming soon)
