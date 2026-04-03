@@ -36,7 +36,7 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 + Non-contact electromagnetic wireless recognition for prosthesis based on intelligent metasurface, **Advanced Science, 2022** (Q1 Top, IF: 17.521, Second Author). [paper link](https://doi.org/10.1002/advs.202105056)
 + Intelligent Metasurface with Machine Learning for Non-contact Hand Gesture Recognition, **ACES 2022**. (Computational Electromagnetics Top, **Oral presentation**, First Author)
 + Joint Detections of Frequency and Direction of Arrival in Wideband Based on Programmable Metasurface, **IEEE Transactions on Antennas and Propagation 2023** (Q1 Top, IF: 5.7).
-+ LAM-Assisted Acoustic Eavesdropping in Multi-speaker Scenarios via Commercial mmWave Radar, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A, First Author)
++ LAM-assisted Acoustic Eavesdropping in Multi-speaker Scenarios via Commercial mmWave Radar, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A, First Author)
 + Acoustic Source Fusion-Based Passive Eavesdropping System Using Millimeter-Wave Radar, **Applied Sciences 2026**.
 + 
 + AccVoice: General Speech Recovery for Voice Calls Using Smartphone's Built-in Accelerometer, **Mobicom 2026**. (CCF-A Top, First Author)
