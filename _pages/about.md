@@ -32,28 +32,34 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 
 **Publications:**
 ------
+**Radar Sensing**
 + Indoor Positioning and Posture Recognition of Human Body Applying Integrating-Type Intelligent Metasurfaces Based Sensing System, **Advanced Materials Technologies 2023** (Q1, IF: 8.856, First Author). [paper link](https://doi.org/10.1002/admt.202301006)
 + Non-contact electromagnetic wireless recognition for prosthesis based on intelligent metasurface, **Advanced Science, 2022** (Q1 Top, IF: 17.521, Second Author). [paper link](https://doi.org/10.1002/advs.202105056)
 + Intelligent Metasurface with Machine Learning for Non-contact Hand Gesture Recognition, **ACES 2022**. (Computational Electromagnetics Top, **Oral presentation**, First Author)
 + Joint Detections of Frequency and Direction of Arrival in Wideband Based on Programmable Metasurface, **IEEE Transactions on Antennas and Propagation 2023** (Q1 Top, IF: 5.7).
 + LAM-assisted Acoustic Eavesdropping in Multi-speaker Scenarios via Commercial mmWave Radar, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A, First Author)
 + Acoustic Source Fusion-Based Passive Eavesdropping System Using Millimeter-Wave Radar, **Applied Sciences 2026**.
-+ 
+
+**Speech Recovery**
 + AccVoice: General Speech Recovery for Voice Calls Using Smartphone's Built-in Accelerometer, **Mobicom 2026**. (CCF-A Top, First Author)
 + AccMic: An Anti-Noise Accelerometer Speech Microphone, **INFOCOM 2026**. (CCF-A, First Author, coming soon)
 + Use the Accelerometer of A Commercial Smartphone as an Anti-Noise Voice Microphone, **TMC 2026**. (CCF-A Journal, First Author, coming soon)
-+ 
+
+**Biologic Watermarking**
 + AccSeal: Online Watermarking Your Speech, **Mobicom 2026**. (CCF-A Top, First Author)
 + UltraGuard: Online Watermarking Against Deepfake of Face Videos, **Mobicom 2026**. (CCF-A Top, First Student Author)
 + Online Audio Watermarking Based on Smartphone Ultrasound Signals, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A, First Author, coming soon)
-+ 
+
+**Medical Sensing and Reconstruction**
 + PCG3DHeart (CCF-A Top, First Author, coming soon)
 + Gait3DPose (CCF-A Top, First Author, coming soon)
 + YJ (NCS series, First Author, coming soon)
-+ 
+
+**TODO**
 + AccFace (CCF-A, First Author, coming soon)
 + Watch3DPose (CCF-A, First Author, coming soon)
-+ 
+
+**Others**
 + MagneTact: Utilizing Deformation-Induced Magnetic Field Variation for Tactile Sensing on Smartphones, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A)
 + WH (CCF-A, Co-First Author, coming soon)
 + WH (CCF-A, Co-First Author, coming soon)
