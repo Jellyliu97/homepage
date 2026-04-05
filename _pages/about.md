@@ -22,8 +22,8 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 **Education Experiences**
 ------
 + 2024.09-2028.06 　 Nanjing University  　Ph.D. 　 Computer Science and Technology (CS)        
-+ 2020.09–2023.06 　 Southeast University 　 M.S.  　Artificial Intelligence (AI)
-+ 2016.09-2020.07  　Nanchang Hangkong University 　 B.S. 　 Electronic Information Engineering (EE)
++ 2020.09–2023.06 　 Southeast University 　 M.E.  　Artificial Intelligence (AI)
++ 2016.09-2020.07  　Nanchang Hangkong University 　 B.E. 　 Electronic Information Engineering (EE)
 -->
 
 **Work and Intern Experiences**
@@ -64,10 +64,15 @@ Intelligent IoT of graduate course,  2025 fall
 
 **Part of Awards:**
 ------
-+ **2026 China National Scholarship** coming soon
+**International Level**
 + 2026 **Outstanding Achievement in Innovation** in the 51st International Exhibition of Inventions Geneva (Top 0.1-0.5%, First Student Author)
-+ 2023 Outstanding Graduate, Southeast University
+
+**National Level**
++ **2026 China National Scholarship** coming soon
 + **2022 China National Scholarship**
+
+**University Level**
++ 2023 Outstanding Graduate, Southeast University
 + 2022 Merit Student, Southeast University
 + 2022 Enterprise Scholarship, Southeast University
 + 2021 University Level Outstanding Volunteer Certificate
