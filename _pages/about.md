@@ -47,7 +47,7 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 
 **Biologic Watermarking**
 + AccSeal: Online Watermarking Your Speech, **Mobicom 2026**. (CCF-A Top, First Author)
-+ Online Watermarking Your Speech, **TMC 2026**. (CCF-A Top, First Author)
++ Online Watermarking Your Speech (AccSeal add Stabilizer and Edge employment), **TMC/TPAMI 2026**. (CCF-A Top, First Author)
 + UltraGuard: Online Watermarking Against Deepfake of Face Videos, **Mobicom 2026**. (CCF-A Top, First Student Author)
 + Online Audio Watermarking Based on Smartphone Ultrasound Signals, **Ubicomp/IMWUT 2026**. (HCI Top, CCF-A, First Author, coming soon)
 
