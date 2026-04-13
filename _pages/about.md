@@ -73,7 +73,7 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 **Part of Awards:**
 ------
 <!--**International Level**-->
-+ Our project "Monitoring Your Vital Signs Anytime and Anywhere Using Smartphones" wins the **Outstanding Achievement in Innovation** in the 51st International Exhibition of Inventions Geneva, 2026 (Top 0.1-0.5%, First Student Author)
++ 2026 Our project "Monitoring Your Vital Signs Anytime and Anywhere Using Smartphones" wins the **Outstanding Achievement in Innovation** in the 51st International Exhibition of Inventions Geneva (Top 0.1-0.5%, First Student Author)
 
 <!--**National Level**-->
 + **2026 China National Scholarship** coming soon
