@@ -67,9 +67,9 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 
 **Service**
 ------
-1. Assistant Reviewer:
++ Assistant Reviewer:
 Ubicomp/IMWUT, CJE (Chinese Journal Of Electronics), IoTJ (IEEE Internet of Things Journal)
-2. Teaching Assistant：
++ Teaching Assistant：
 Intelligent IoT of graduate course,  2025 fall
 
 **Part of Awards:**
