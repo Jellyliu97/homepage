@@ -65,8 +65,11 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 + WH (CCF-A, Co-First Author, coming soon)
 + WH (CCF-A, Co-First Author, coming soon)
 
-**Teaching Assistant**
+**Service**
 ------
+1. Assistant Reviewer:
+Ubicomp/IMWUT, CJE (Chinese Journal Of Electronics), IoTJ (IEEE Internet of Things Journal)
+2. Teaching Assistant：
 Intelligent IoT of graduate course,  2025 fall
 
 **Part of Awards:**
