@@ -12,7 +12,8 @@ I am a second-year PhD student in computer science and technology at the **State
 My current research interests include 
 1. Multi-modal intelligent sensing (Vision, Speech/Ultrasound/Acoustics, mmWave, Accelerometer, WiFi, and so on), and HCI;
 2. Edge and embodied intelligence (1Bit LM, Sensing LM/Agent, Model Lightweighting, RL, XLA), and Physical AI;
-3. Multi-modal representation learning.
+3. Multi-modal representation learning;
+4. Generative model.
 
 I hope to build a learning and research path from sensing, recognition, and cognitive to embodied intelligence and AI agents.
 
