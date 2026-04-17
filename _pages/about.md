@@ -62,9 +62,9 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 + Watch3DPose (CCF-A, First Author, coming soon)
 
 <!--**Others**-->
-+ MagneTact: Utilizing Deformation-Induced Magnetic Field Variation for Tactile Sensing on Smartphones, **Ubicomp/IMWUT 2026**. (CCF-A)
-+ WH (CCF-A, Co-First Author, coming soon)
-+ WH (CCF-A, Co-First Author, coming soon)
++ MagneTact: Utilizing Deformation-Induced Magnetic Field Variation for Tactile Sensing on Smartphones, **TMC 2026**. (CCF-A)
++ WH (CCF-A, Co-first Author, coming soon)
++ WH (CCF-A, Co-first Author, coming soon)
 
 **Service**
 ------
