@@ -52,7 +52,7 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 + UltraGuard: Online Watermarking Against Deepfake of Face Videos, **Mobicom 2026**. (CCF-A, First Student Author)
 + Online Speech Watermarking Based on Smartphone Ultrasound Signals, **Ubicomp/IMWUT 2026**. (CCF-A, First Author, coming soon)
 
-<!--**Medical Sensing and Reconstruction**-->
+<!--**Medical Sensing and 3D Reconstruction**-->
 + PCG3DHeart (CCF-A, First Author, coming soon)
 + Gait3DPose (CCF-A, First Author, coming soon)
 + YJ (NCS series, First Author, coming soon)
