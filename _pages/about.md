@@ -13,7 +13,7 @@ My current research interests include
 1. Multi-modal Intelligence (Vision, Speech/Ultrasound/Acoustics, mmWave, Accelerometer, WiFi, and so on), and HCI;
 2. Edge LM (1Bit LM, Sensing LM/Agent, Model Lightweighting), Embodied Intelligence (RL, XLA), and Physical AI;
 3. Multi-modal Representation Learning;
-4. Generative Model (Diffusion / Flow Matching).
+4. Generative Model (Diffusion / Flow Matching / AR).
 
 I hope to build a learning and research path from sensing, recognition, and cognitive to embodied intelligence and AI agents.
 
