@@ -53,9 +53,9 @@ I hope to build a learning and research path from sensing, recognition, and cogn
 + Online Speech Watermarking System Based on Smartphone Ultrasound Signals, **Ubicomp/IMWUT 2026**. (CCF-A, First Author)
 
 <!--**Medical Sensing and 3D Reconstruction**-->
-+ PCG3DHeart (CCF-A, First Author, coming soon)
-+ Gait3DPose (CCF-A, First Author, coming soon)
-+ AccFace (CCF-A, First Author, coming soon)
++ PCG3DHeart, **Mobicom 2026**. (CCF-A, First Author, coming soon)
++ Gait3DPose, **Mobicom 2026**. (CCF-A, First Author, coming soon)
++ AccFace, **Ubicomp/IMWUT 2026**. (CCF-A, First Author, coming soon)
 + YJ (NCS series, First Author, coming soon)
 + QR (CCF-A, First Author, coming soon)
 + Watch3DPose (CCF-A, First Author, coming soon)
